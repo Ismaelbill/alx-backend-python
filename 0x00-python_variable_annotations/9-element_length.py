@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import typing as t
 """ iterable  object """
+import typing as t
 
 
 def element_length(lst: t.Iterable[t.Sequence]) -> t.List[

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import typing as t
 """ Complex types - functions """
+import typing as t
 
 
 def make_multiplier(multiplier: float) -> t.Callable[[float], float]:

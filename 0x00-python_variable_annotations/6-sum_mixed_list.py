@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import typing as t
 """  Complex types - mixed list """
+import typing as t
 
 
 def sum_mixed_list(mix_lst: t.List[t.Union[int, float]]) -> float:

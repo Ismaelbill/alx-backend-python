@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import typing as t
 """ Complex types - string and int/float to tuple """
+import typing as t
 
 
 def to_kv(k: str, v: t.Union[int, float]) -> t.Tuple[str, float]:
