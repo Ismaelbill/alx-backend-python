@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Task"""
+""" Tasks """
 
 import asyncio
 import typing as t
